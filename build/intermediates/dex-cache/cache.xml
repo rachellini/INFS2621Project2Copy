@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Volumes/DataHD/Users/student/INFS3634Project2/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Volumes/DataHD/Users/student/INFS3634Project2/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.0_189bff8bd47c35de6ba62f762eb11802fe48e667.jar" />
+    </item>
+
+</items>
